@@ -1,0 +1,8 @@
+train: ./data/ThreeSignTraining
+val: ./data/ThreeSignVal
+
+# number of classes
+nc: 3
+
+# class names
+names: [ 'Bus Stop','Children Crossing','Pedestrian Crossing']
